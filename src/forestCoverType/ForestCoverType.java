@@ -360,9 +360,13 @@ public class ForestCoverType {
 
         Config config = new Config();
 
-        //If you are starting program for the first time, uncomment this two line below
-//        generateDataSets(config);
-//        trainNetwork(config);
+//        ********************************************************************
+//        You can comment first two line below after first fun of program. After that you 
+//        wil have trained network saved to a file. 
+//        ********************************************************************
+        generateDataSets(config);
+        trainNetwork(config);
+        
         evaluateNetwork(config);
     }
 }
