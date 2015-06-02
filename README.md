@@ -8,21 +8,31 @@
   
   1) AdalineDigitsSample - In this sample MultiLayerPerceptron network is used for pattern recognition. Example teaches the adaline to recognize the 10 digits. It's based on a an example from Encog (Encog Examples/org.encog.examples.neural.adaline).
   
-  2) ForestCoverType - In this sample MultiLayerPerceptron network is used for classification problem. It's based on a example from Encog (Encog Examples/org.encog.examples.neural.forest). The original data set and description can be found at link:  http://archive.ics.uci.edu/ml/machine-learning-databases/covtype/covtype.data.gz
+  2) ForestCoverType - In this sample MultiLayerPerceptron network is used for classification problem. It's based on a example from Encog (Encog Examples/org.encog.examples.neural.forest). The original data set can be found at link:  http://archive.ics.uci.edu/ml/machine-learning-databases/covtype/covtype.data.gz.
+  Description of the data set can be found at link: http://archive.ics.uci.edu/ml/machine-learning-databases/covtype/covtype.info
   
-  3) BrestCancerSample - In this sample MultiLayerPerceptron network is used for classification problem. It's based on a example from Weka. The original data set and description can be found at link: https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/wdbc.data
+  3) BrestCancerSample - In this sample MultiLayerPerceptron network is used for classification problem. It's based on a example from Weka. The original data set can be found at link: https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/wdbc.data.
+  Description of the data set can be found at link: http://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/wdbc.names
   
-  4) DiabetesSample - In this sample MultiLayerPerceptron network is used for classification problem. It's based on a example from Weka. The original data set and description can be found at link: http://archive.ics.uci.edu/ml/machine-learning-databases/pima-indians-diabetes/pima-indians-diabetes.data
+  4) DiabetesSample - In this sample MultiLayerPerceptron network is used for classification problem. It's based on a example from Weka. The original data set can be found at link: http://archive.ics.uci.edu/ml/machine-learning-databases/pima-indians-diabetes/pima-indians-diabetes.data.
+  Description of the data set can be found at link: http://archive.ics.uci.edu/ml/machine-learning-databases/pima-indians-diabetes/pima-indians-diabetes.names
   
-  5) GermanCreditDataSample - DiabetesSample - In this sample MultiLayerPerceptron network is used for classification problem. It's based on a example from Weka. The original data set and description can be found at link: https://archive.ics.uci.edu/ml/machine-learning-databases/statlog/german/german.data-numeric
+  5) GermanCreditDataSample - DiabetesSample - In this sample MultiLayerPerceptron network is used for classification problem. It's based on a example from Weka. The original data set can be found at link: https://archive.ics.uci.edu/ml/machine-learning-databases/statlog/german/german.data-numeric.
+  Description of the data set can be found at link: https://archive.ics.uci.edu/ml/machine-learning-databases/statlog/german/german.doc
   
-  6) IonosphereSample - In this sample MultiLayerPerceptron network is used for classification problem. It's based on a example from Weka. The original data set and description can be found at link: http://archive.ics.uci.edu/ml/machine-learning-databases/ionosphere/ionosphere.data
+  6) IonosphereSample - In this sample MultiLayerPerceptron network is used for classification problem. It's based on a example from Weka. The original data set be found at link: http://archive.ics.uci.edu/ml/machine-learning-databases/ionosphere/ionosphere.data.
+  Description of the data set can be found at link: http://archive.ics.uci.edu/ml/machine-learning-databases/ionosphere/ionosphere.names
   
-  7) SegmentChallengeSample - In this sample MultiLayerPerceptron network is used for classification problem. It's based on a example from Weka. The original data set and description can be found at link: https://archive.ics.uci.edu/ml/machine-learning-databases/image/segmentation.data
+  7) SegmentChallengeSample - In this sample MultiLayerPerceptron network is used for classification problem. It's based on a example from Weka. The original data set can be found at link: https://archive.ics.uci.edu/ml/machine-learning-databases/image/segmentation.data.
+  Description of the data set can be found at link: https://archive.ics.uci.edu/ml/machine-learning-databases/image/segmentation.names
   
   **All data sets are corrected to contains only numeric value. 
   
   **Description of all samples can be also found in the project.
+
+## About Neuroph
+
+Neuroph is lightweight Java neural network framework to develop common neural network architectures. It contains well designed, open source Java library with small number of basic classes which correspond to basic NN concepts. Also has nice GUI neural network editor to quickly create Java neural network components. It has been released as open source under the Apache 2.0 license, and it's FREE for you to use it.
 
 ## Licence
 
