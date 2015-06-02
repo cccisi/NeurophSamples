@@ -1,6 +1,6 @@
 # NeurophSamples
   
-  This project contains a few sample of using MultiLayerPerceptron network to solve classification problem. 
+  This project contains a few samples of use MultiLayerPerceptron network to solve classification problem. 
 
 ## Samples
 
